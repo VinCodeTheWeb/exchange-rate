@@ -1,5 +1,7 @@
 # Getting Started with Exchange Rate App
 
+![App Image](https://raw.githubusercontent.com/VinCodeTheWeb/exchange-rate/master/src/assets/markdown/app.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
